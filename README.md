@@ -29,7 +29,8 @@ This is a custom Android Photo Gallery application designed to improve image man
 
 ## Screenshots
 
-![All](screenshots/all.png)
-![Albums](screenshots/albums.png)
-![Private](screenshots/private.png)
-![Recyclebin](screenshots/recyclebin.png)
+![All](screenshots/all.jpg)
+![Albums](screenshots/album.jpg)
+![Private](screenshots/private.jpg)
+![Recyclebin](screenshots/recyclebin.jpg)
+
