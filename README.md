@@ -1,3 +1,8 @@
+## Author
+Sujal Chavan
+Electronics & Telecommunication Engineer
+Android & VLSI Enthusiast
+
 # Photo-Gallery-Android-App
 A custom Android Photo Gallery App with Private Vault and Recycle Bin features.
 
