@@ -1,6 +1,6 @@
 ## Author
-Sujal Chavan
-Electronics & Telecommunication Engineer
+Sujal Chavan,
+Electronics & Telecommunication Engineer,
 Android & VLSI Enthusiast
 
 # Photo-Gallery-Android-App
