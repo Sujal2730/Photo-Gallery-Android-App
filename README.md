@@ -26,3 +26,10 @@ This is a custom Android Photo Gallery application designed to improve image man
 - Cloud backup
 - Face recognition albums
 - Dark mode
+
+## Screenshots
+
+![All](screenshots/All.png)
+![Albums](screenshots/Albums.png)
+![Private](screenshots/Private.png)
+![Recyclebin](screenshots/Recyclebin.png)
